@@ -1,4 +1,4 @@
-<h1> Boostrap Web Sitemiz </h1>
+<h1> Bootstrap Web Sitemiz </h1>
 
 Temel olarak boostrap kütüphanesinden yararlanılmıştır.
 
